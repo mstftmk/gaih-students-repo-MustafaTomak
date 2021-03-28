@@ -6,7 +6,7 @@
 **Surname:** Tomak  
 **Email:** mstf.tmk@gmail.com  
 
-## Project Name
+## GAIH Machine Learning Course Assignments
 In this repo, you will find the homeworks and Final project that given in the GAIH Machine Learning course.
 
 ## Requirements
