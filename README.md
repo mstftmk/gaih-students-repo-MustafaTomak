@@ -6,16 +6,18 @@
 **Surname:** Tomak  
 **Email:** mstf.tmk@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
-
 ## Project Name
-Description of your project.
+In this repo, you will find the homeworks and Final project that given in the GAIH Machine Learning course.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+ * Pandas
+ * Numpy
+ * Seaborn
+ * Sklearn
+ * Matplotlib
+ * Scipy
+
 ```
 ---
 
