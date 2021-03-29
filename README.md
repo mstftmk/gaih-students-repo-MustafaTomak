@@ -1,7 +1,7 @@
 # GAIH Student Repo - Mustafa Tomak
 ![](img/newlogo.png)
 
-**Course Date:** 22.03.2021  
+**Course Date:** 26.03.2021  
 **Name:** Mustafa  
 **Surname:** Tomak  
 **Email:** mstf.tmk@gmail.com  
