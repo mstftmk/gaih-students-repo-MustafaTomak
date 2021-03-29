@@ -17,7 +17,6 @@ In this repo, you will find the homeworks and Final project that given in the GA
  * Sklearn
  * Matplotlib
  * Scipy
-
 ```
 ---
 
