@@ -22,5 +22,5 @@ In this repo, you will find the homeworks and Final project that given in the GA
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/GAIH-Cer.png)
 
